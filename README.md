@@ -1,4 +1,4 @@
-[![N's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyukist&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![N's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Nyukist&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
